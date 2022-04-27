@@ -1,0 +1,29 @@
+span{
+    color: brown;
+}
+.bg-bordo{
+    background-color: brown;
+}
+.c-bordo{
+    color: brown;
+}
+.bg-blanco{
+    background-color: white;
+}
+.c-blanco{
+    color: white;
+}
+
+/* galeria */
+
+
+
+#galeria img{
+    width: 100%;
+    padding: 1em;
+    background-size: cover;
+}
+
+#galeria img:hover{
+    border: 5px solid white;
+}
